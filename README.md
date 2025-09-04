@@ -8,5 +8,13 @@ Today, we are learning about GitHub.
 ~~this is~~
 `this is`
 <br/>
+Ordered list
 - List 1
 - List 2
+- List 3
+- <br/>
+Ordered List
+1. Babar
+2. Rizwan
+3. Shaheen
+4. Naseem Shah
