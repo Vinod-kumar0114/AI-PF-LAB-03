@@ -19,5 +19,3 @@ Ordered List
 2. Rizwan
 3. Shaheen
 4. Naseem Shah
-
-PCT
