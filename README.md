@@ -12,7 +12,6 @@ Ordered list
 - List 1
 - List 2
 - List 3
-- <br/>
 Ordered List
 1. Babar
 2. Rizwan
